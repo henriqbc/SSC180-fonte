@@ -21,3 +21,10 @@ Determinando a tensão minima como sendo 13V, por segurança, achamos a capacita
 ![Imagen da Tensão](https://raw.githubusercontent.com/joao-vta/SSC180-fonte/main/imagens/ripple.png) ![Imagen das contas](https://raw.githubusercontent.com/joao-vta/SSC180-fonte/main/imagens/contasExp.png)
 
 Como 425uF não é um valor comercial, escolhemos um [capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) de 470uF, capaz de aguentar a voltagem necessária.
+
+
+| Nome | Especificação Básica | Valor |
+| :---: | :---: | :---: |
+| Transformador | Entrada: 110V-220V / Saída: 9V+9V 200 MA | R$28,99 |
+| Capacitor | 470uF / 25V | R$0,43 |
+| Diodo | 50V / 1A | R$0,14 |
